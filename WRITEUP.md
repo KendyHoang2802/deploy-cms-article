@@ -64,5 +64,6 @@ Cost/month: $25.55<br>
 </table>
 
 *Availability Analysis: Both VM and App Service guarantee available 99.95% of the time*
+
 *Justification: 
 An App Service is a PaaS offering meaning that you just have to deploy your code and not worry about the underlying infrastructure. The application is designed to be cloud native removing the need for server management and optimization. It also has good pricing tiers and gives adequate room for scalability. Another caveat is the wide range of deployment options available that can easily be integrated into a production workflow*
